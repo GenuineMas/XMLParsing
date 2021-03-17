@@ -1,3 +1,3 @@
 # XMLParsing
-XMLParsing MVVM realisation (UI programmatically)
+XMLParsing  realisation 
 open SWXMLHash Playground.playground
