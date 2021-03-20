@@ -57,7 +57,7 @@
 		8C15D7102600051E00BE3507 /* XMLParsingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XMLParsingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C15D7142600051E00BE3507 /* XMLParsingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XMLParsingUITests.swift; sourceTree = "<group>"; };
 		8C15D7162600051E00BE3507 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8C6FD6D826000BB200E02B8E /* SWXMLHash Playground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; name = "SWXMLHash Playground.playground"; path = "../../SWXMLHash Playground.playground"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		8C70FB382606169E005478DD /* XMLParsing playground .playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "XMLParsing playground .playground"; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		AE4EFBED10926004F42273D4 /* Pods-XMLParsing-XMLParsingUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMLParsing-XMLParsingUITests.release.xcconfig"; path = "Target Support Files/Pods-XMLParsing-XMLParsingUITests/Pods-XMLParsing-XMLParsingUITests.release.xcconfig"; sourceTree = "<group>"; };
 		D30C15E3B2B9ACAE9D75C148 /* Pods_XMLParsing.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XMLParsing.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E09DED101DD8695739B3FA74 /* Pods-XMLParsing-XMLParsingUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XMLParsing-XMLParsingUITests.debug.xcconfig"; path = "Target Support Files/Pods-XMLParsing-XMLParsingUITests/Pods-XMLParsing-XMLParsingUITests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -132,7 +132,7 @@
 		8C15D6EE2600051B00BE3507 /* XMLParsing */ = {
 			isa = PBXGroup;
 			children = (
-				8C6FD6D826000BB200E02B8E /* SWXMLHash Playground.playground */,
+				8C70FB382606169E005478DD /* XMLParsing playground .playground */,
 				8C15D6EF2600051B00BE3507 /* AppDelegate.swift */,
 				8C15D6F12600051B00BE3507 /* SceneDelegate.swift */,
 				8C15D6F32600051B00BE3507 /* ViewController.swift */,
